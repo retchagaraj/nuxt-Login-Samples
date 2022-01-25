@@ -1,0 +1,16 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/media/inforios3/workspace/workspace/samples/sample_fo/pages/dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_60add50d"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/inforios3/workspace/workspace/samples/sample_fo/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_404edccb"
+  }
+]
